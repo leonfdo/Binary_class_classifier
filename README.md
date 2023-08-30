@@ -1,6 +1,6 @@
 # Binary_class_classifier
 
-In this project I have developed a binary classifier model to classify the points in  two circle  which was taken by sklearn make_blobs data set.
+In this project I have developed a binary classifier model to classify the points in  two circle  which was taken by sklearn make_cicles data set.
 
 first data was imported by the sklearn library and then converted to panda dataframe to get better idea about the data set. Then the data is visualized using matplotlib library to have a good view of the data.
 
